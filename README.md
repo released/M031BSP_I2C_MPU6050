@@ -31,10 +31,6 @@ with define : FIFO_EXAMPLE
 
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/log_FIFO_EXAMPLE.jpg)	
 
-![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/log_REGISTER_TEST.jpg)	
-
-![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/log_REGISTER_TEST.jpg)	
-
 
 4. enable MPU6050_simple_read , 
 
