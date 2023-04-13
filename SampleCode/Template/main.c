@@ -379,7 +379,8 @@ void loop(void)
     {
     	FLAG_PROJ_SENSOR_TRIGGER = 0;
         // MPU6050_test();
-        MPU6050_simple_read();
+        // MPU6050_simple_polling();
+        MPU6050_Adafruit_polling();
     }
 }
 

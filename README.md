@@ -32,15 +32,24 @@ with define : FIFO_EXAMPLE
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/log_FIFO_EXAMPLE.jpg)	
 
 
-4. enable MPU6050_simple_read , 
+4. enable MPU6050_simple_polling , 
 
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/log_MPU6050_simple_read.jpg)	
 
-5. below is LA when use MPU6050_simple_read
+5. below is LA when use MPU6050_simple_polling
 
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/LA_1_read_config.jpg)	
 
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/LA_2_read_acc_gyro.jpg)	
 
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/LA_3_read_temp.jpg)	
+
+
+6. enable MPU6050_Adafruit_polling , 
+
+![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/log_MPU6050_Adafruit_polling.jpg)	
+
+7. below is LA when use MPU6050_Adafruit_polling
+
+![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/LA_2_read_acc_gyro_Adafruit_polling.jpg)	
 
