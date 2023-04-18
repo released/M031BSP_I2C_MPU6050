@@ -37,4 +37,3 @@
 void MPU6050_test(void);
 
 void MPU6050_simple_polling(void);
-void MPU6050_Adafruit_polling(void);

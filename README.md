@@ -45,11 +45,16 @@ with define : FIFO_EXAMPLE
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/LA_3_read_temp.jpg)	
 
 
-6. enable MPU6050_Adafruit_polling , 
+6. enable MPU6050_Adafruit_basic_readings , 
 
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/log_MPU6050_Adafruit_polling.jpg)	
 
-7. below is LA when use MPU6050_Adafruit_polling
+7. below is LA when use MPU6050_Adafruit_basic_readings
+
+![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/LA_2_read_acc_gyro_Adafruit_polling.jpg)	
+
+
+8. enable MPU6050_Adafruit_motion_detection , detect value when sensor moving
 
 ![image](https://github.com/released/M031BSP_I2C_MPU6050/blob/main/LA_2_read_acc_gyro_Adafruit_polling.jpg)	
 

@@ -496,6 +496,11 @@
               <FileType>1</FileType>
               <FilePath>..\MPU6050.c</FilePath>
             </File>
+            <File>
+              <FileName>Adafruit_MPU6050.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Adafruit_MPU6050.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

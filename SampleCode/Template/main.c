@@ -6,7 +6,10 @@
 #include "misc_config.h"
 
 #include "i2c_driver.h"
+
 #include "MPU6050.h"
+#include "Adafruit_MPU6050.h"
+
 /*_____ D E C L A R A T I O N S ____________________________________________*/
 
 struct flag_32bit flag_PROJ_CTL;
@@ -380,7 +383,8 @@ void loop(void)
     	FLAG_PROJ_SENSOR_TRIGGER = 0;
         // MPU6050_test();
         // MPU6050_simple_polling();
-        MPU6050_Adafruit_polling();
+        MPU6050_Adafruit_basic_readings();
+        // MPU6050_Adafruit_motion_detection();
     }
 }
 
